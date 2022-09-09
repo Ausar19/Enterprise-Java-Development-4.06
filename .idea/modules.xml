@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab-4.04/Enterprise-Java-Development-4.06.iml" filepath="$PROJECT_DIR$/lab-4.04/Enterprise-Java-Development-4.06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Enterprise-Java-Development-4.06..iml" filepath="$PROJECT_DIR$/.idea/Enterprise-Java-Development-4.06..iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enterprise-Java-Development-4.06/lab-4.04.iml" filepath="$PROJECT_DIR$/Enterprise-Java-Development-4.06/lab-4.04.iml" />
+    </modules>
+  </component>
+</project>
